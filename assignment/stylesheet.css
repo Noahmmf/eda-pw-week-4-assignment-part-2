@@ -1,5 +1,8 @@
 header{
-    background-color:rgb(62, 43, 43);
+background-color: crimson;
+color: black;
+text-align: center;
+
 }
 h2{
     background-color: crimson;
@@ -8,7 +11,9 @@ h2{
 }
 img{
 padding: 50px;
-margin:auto;
+margin-left:auto;
+margin-right:auto;
+height: auto;
 width: 400px;
 }
 h3{
